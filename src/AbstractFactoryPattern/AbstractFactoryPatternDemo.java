@@ -48,6 +48,7 @@ public class AbstractFactoryPatternDemo {
 
         //call fill method of Color Blue
         color3.fill();
+
     }
 
 }
